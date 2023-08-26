@@ -1,5 +1,5 @@
-### Hi there 👋, I'm mr-fravardin, a Python Developer, coding and learning enthusiast from Philippines.
-### I am currently learning DevOps and Web Development.
+### Hi there 👋, I'm mr-fravardin, a Web and Python Developer, coding and learning enthusiast from Philippines.
+### I am currently learning React.
 
 <!--
 **mr-fravardin/mr-fravardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
